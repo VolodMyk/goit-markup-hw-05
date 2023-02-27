@@ -364,6 +364,7 @@ img {
 }
 
 /* /Footer */
+/* Protfolio page */
 .portfolio-header {
   border-bottom: 1px solid var(--bcg-button);
 }
@@ -386,7 +387,6 @@ img {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  /* text-align: center; */
   letter-spacing: 0.04em;
   border: 1px solid var(--bcg-button);
   border-radius: 4px;
@@ -448,7 +448,7 @@ img {
   border-bottom: 1px solid var(--bcg-button);
   border-right: 1px solid var(--bcg-button);
 }
-/* /Filter Buttons */
+/* /Project list */
 /* Modal */
 .backdrop {
   position: fixed;
